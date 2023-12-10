@@ -1,0 +1,166 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('7.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.menu {
+    background-color: #333;
+    width: 100%;
+    height: 80px;
+    display: inline-block;
+}
+
+.menu ul li {
+    list-style-type: none;
+    float: left;
+    padding: 10px 30px;
+    font-size: x-large;
+    font-weight: 600;
+}
+
+.menu ul li:hover {
+    background-color:gray;
+    border-radius: 20px;
+}
+
+.logoImg {
+    float: left;
+    height: 65px;
+    width: 65px;
+    border-radius: 90px;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+
+.content0 {
+    text-align: center;
+    color: white;
+font-weight: bold;
+text-shadow: 5px 4px 5px black;
+}
+
+.homeimg {
+    padding-top: 4px;
+    width: 300px;
+    height: 400px;
+}
+
+.imgs {
+    padding-top: 4px;
+    width: 240px;
+    height: 270px;
+
+}
+
+.content1 {
+    color: white;
+    padding-left: 6px;
+    display: flex;
+    justify-content: space-between;
+    word-spacing: 7px;
+
+}
+
+.contactpage {
+    text-align: center;
+    color: white;
+}
+
+.mbl {
+    margin-left: 35px;
+    font-size: large;
+    background-color: rgb(235, 227, 227);
+    border-radius: 15px;
+}
+
+.tele {
+    font-size: large;
+    background-color: rgb(235, 227, 227);
+    border-radius: 15px
+}
+
+.gmail {
+    margin-left: 77px;
+    font-size: large;
+    background-color: rgb(235, 227, 227);
+    border-radius: 15px
+}
+
+.linkedIn {
+    margin-left: 60px;
+    font-size: large;
+    background-color: rgb(235, 227, 227);
+    border-radius: 15px
+}
+.facebook{
+    margin-left: 43px;
+    font-size: large;
+    background-color: rgb(235, 227, 227);
+    border-radius: 15px
+}
+
+.style {
+    font-size: larger;
+    font-weight: 500;
+}
+
+.contactfooter {
+    text-align: center;
+    border: 2px;
+    height: 40px;
+    background-color: #333;
+    color: white;
+    padding-top: 20px;
+    font-size: large;
+    margin-top: 152px;
+}
+.aboutheading:hover{
+background-color: lightgreen;
+color: gray;
+width: 30%;
+border-radius: 20px;
+}
+.aboutheading2:hover{
+    background-color: lightgreen;
+    color: gray;
+    width: 55%;
+    height: 40px;
+    border-radius: 20px;
+    }
+    
+    .btn{
+
+        width: 90px;
+        height: 40px;
+        border-radius: 19px;
+        font-size: x-large;
+        background-color: #333;
+    }
+    .btn:hover{
+        background-color: gray;
+    }
+    .reg {
+        text-align: center;
+        font-weight: bold;
+    }
+    .login{
+        text-align: center;
+        margin-top: 80px;
+    }
+    .l1{
+        font-size: large;
+        border-radius: 15px;
+    height: 30px;
+    }
+    .l2{
+        font-size: large;
+        border-radius: 15px;
+    height: 30px;
+    }
+    .l2:hover{
+        background-color: grey;
+    }
+   
